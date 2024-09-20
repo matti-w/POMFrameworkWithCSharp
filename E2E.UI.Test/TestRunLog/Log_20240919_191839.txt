@@ -1,0 +1,6 @@
+2024-09-19 19:18:39.673 -07:00 [INF] Admin is entered in Username text box
+2024-09-19 19:18:39.981 -07:00 [INF] admin is entered in Password text box
+2024-09-19 19:18:40.184 -07:00 [INF] Login button is clicked.
+2024-09-19 19:18:58.058 -07:00 [INF] Admin is entered in Username text box
+2024-09-19 19:18:58.333 -07:00 [INF] admin123 is entered in Password text box
+2024-09-19 19:18:58.529 -07:00 [INF] Login button is clicked.

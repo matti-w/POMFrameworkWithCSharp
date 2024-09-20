@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2E.UI.Test.Helper", "E2E.UI.Test.Helper\E2E.UI.Test.Helper.csproj", "{8E8A1031-38C1-43F0-A4E4-419CAC88F851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2E.UI.Test", "E2E.UI.Test\E2E.UI.Test.csproj", "{B6919B43-12D3-444B-A9FD-9098EAF4416F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8A1031-38C1-43F0-A4E4-419CAC88F851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8A1031-38C1-43F0-A4E4-419CAC88F851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8A1031-38C1-43F0-A4E4-419CAC88F851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8A1031-38C1-43F0-A4E4-419CAC88F851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6919B43-12D3-444B-A9FD-9098EAF4416F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6919B43-12D3-444B-A9FD-9098EAF4416F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6919B43-12D3-444B-A9FD-9098EAF4416F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6919B43-12D3-444B-A9FD-9098EAF4416F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D734300-3BA3-4F35-B30A-8761AAFDDDA5}
+	EndGlobalSection
+EndGlobal
